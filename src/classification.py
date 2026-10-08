@@ -2,7 +2,6 @@ from pathlib import Path
 from typing import List, Tuple
 
 import joblib
-from langchain.schema import Document
 
 DOCUMENT_CLASSES = [
     "request_form",
@@ -52,18 +51,3 @@ def predict_page(model, text: str) -> Tuple[str, float]:
     label = str(model.classes_[best_index])
     confidence = float(probabilities[best_index])
     return label, confidence
-
-
-def classify_documents(docs: List[Document], model=None) -> List[Document]:
-    if model is None:
-        model = load_classifier()
-    classified: List[Document] = []
-    for doc in docs:
-        label, confidence = predict_page(model, doc.page_content)
-        metadata = {
-            **doc.metadata,
-            "doc_type": label,
-            "doc_type_confidence": confidence,
-        }
-        classified.append(Document(page_content=doc.page_content, metadata=metadata))
-    return classified
