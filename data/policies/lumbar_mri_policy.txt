@@ -1,0 +1,23 @@
+SAMPLE HEALTH PLAN - MEDICAL NECESSITY POLICY (SYNTHETIC, FOR DEMO ONLY)
+Policy ID: IMG-210
+Title: MRI of the Lumbar Spine (CPT 72148)
+Effective date: 01/01/2026
+
+Purpose:
+This policy defines when MRI of the lumbar spine is considered medically necessary for adult members with low back pain.
+
+Medical necessity criteria:
+Lumbar spine MRI is considered medically necessary when ONE of the following is documented:
+
+Criterion 1 - Red flags: Signs of cauda equina syndrome, progressive neurological deficit, suspected spinal infection, suspected malignancy, or suspected fracture.
+
+Criterion 2 - Persistent radiculopathy: Low back pain with radiating leg pain lasting at least 6 weeks despite at least 6 weeks of conservative treatment (physical therapy, NSAIDs, activity modification), in a member who is a candidate for surgery or epidural injection.
+
+Not medically necessary:
+Imaging for uncomplicated acute low back pain of less than 6 weeks duration without red flag findings.
+
+Required documentation:
+Symptom duration, neurological examination, conservative treatment history and response.
+
+Review process:
+Requests that do not clearly meet criteria are pended for review by a licensed clinical reviewer. Only a physician reviewer may issue an adverse determination.

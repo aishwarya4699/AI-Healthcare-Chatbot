@@ -1,0 +1,30 @@
+SAMPLE HEALTH PLAN - MEDICAL NECESSITY POLICY (SYNTHETIC, FOR DEMO ONLY)
+Policy ID: IMG-104
+Title: MRI of the Knee (CPT 73721)
+Effective date: 01/01/2026
+
+Purpose:
+This policy defines when magnetic resonance imaging (MRI) of the knee is considered medically necessary for adult members with knee pain.
+
+Medical necessity criteria:
+MRI of the knee is considered medically necessary when ALL of the following criteria are documented:
+
+Criterion 1 - Duration: Knee pain has persisted for at least 6 weeks.
+
+Criterion 2 - Conservative treatment: The member has completed at least 6 weeks of conservative treatment that did not adequately relieve symptoms. Conservative treatment includes physical therapy, NSAIDs or other analgesics, activity modification, or bracing.
+
+Criterion 3 - Prior imaging: Weight-bearing plain radiographs (X-rays) of the affected knee were performed within the last 90 days and were non-diagnostic or showed findings needing further evaluation.
+
+Criterion 4 - Clinical findings: The physical examination documents findings suggestive of internal derangement, such as a positive McMurray test, joint line tenderness, joint effusion, mechanical locking or catching, or ligamentous instability.
+
+Exceptions:
+Criteria 1 and 2 do not apply when there is acute trauma with suspected ligament or meniscal tear, suspected infection, suspected tumor, or suspected fracture not visible on X-ray.
+
+Not medically necessary:
+MRI is not medically necessary for knee pain of less than 6 weeks duration without red flag findings, or when conservative treatment has not been attempted.
+
+Required documentation:
+Clinical notes documenting symptom duration, conservative treatment and response, X-ray results, and physical examination findings.
+
+Review process:
+Requests that do not clearly meet criteria are pended for review by a licensed clinical reviewer. Only a physician reviewer may issue an adverse determination.

@@ -1,0 +1,23 @@
+ORTHOPEDIC CLINIC - PROGRESS NOTE (SYNTHETIC TEST PATIENT, NO PHI)
+Patient: Test Patient B    DOB: 01/01/1975    Member ID: DEMO-0002
+Date of visit: 10/01/2026
+Requesting service: MRI right knee without contrast (CPT 73721)
+Diagnosis: Right knee pain, suspected medial meniscus tear (ICD-10 M23.221, M25.561)
+
+Chief complaint:
+Right knee pain for 10 weeks, with intermittent catching and swelling.
+
+History of present illness:
+Pain began gradually 10 weeks ago after a twisting movement while gardening. The patient completed 6 weeks of supervised physical therapy (12 sessions, 08/10/2026 - 09/21/2026) and took naproxen 500 mg twice daily for 6 weeks with only minimal improvement. Pain is 6/10 and worse with stairs and pivoting.
+
+Imaging:
+Weight-bearing X-ray of the right knee on 09/15/2026: no fracture, mild joint space narrowing, otherwise non-diagnostic.
+
+Physical examination:
+Medial joint line tenderness. Positive McMurray test on the medial side. Small joint effusion. Ligaments stable.
+
+Assessment:
+Persistent mechanical knee pain with exam findings consistent with medial meniscus tear, not responding to 6 weeks of conservative treatment.
+
+Plan:
+Request MRI of the right knee to evaluate for meniscal tear and guide orthopedic management.

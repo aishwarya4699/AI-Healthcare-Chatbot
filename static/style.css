@@ -11,7 +11,7 @@ body,html{
 	margin-bottom: auto;
 }
 .card{
-	height: 500px;
+	height: 88vh;
 	border-radius: 15px !important;
 	background-color: rgba(0,0,0,0.4) !important;
 }
@@ -221,3 +221,56 @@ border-radius: 0 0 15px 15px !important;
 	margin-bottom: 15px !important;
 }
 }
+
+/* ---------- Clinical Review Assistant additions ---------- */
+.msg_cotainer { color: #fff; max-width: 80%; }
+.msg_cotainer_send { color: #fff; max-width: 70%; }
+.msg_error { background-color: #c0392b !important; }
+.case_banner {
+	margin-top: 10px;
+	padding: 6px 12px;
+	border-radius: 10px;
+	background: rgba(255,255,255,0.12);
+	color: #fff;
+	font-size: 13px;
+}
+.case_banner a { color: #ffd166; }
+.sources { margin-top: 8px; font-size: 12px; }
+.source_chip {
+	display: inline-block;
+	background: rgba(0,0,0,0.25);
+	border-radius: 10px;
+	padding: 1px 8px;
+	margin: 2px 2px 0 0;
+}
+.doc_card { min-width: 320px; }
+.doc_title { font-weight: 600; margin-bottom: 6px; }
+.doc_table { width: 100%; font-size: 13px; }
+.doc_table td { padding: 3px 6px 3px 0; vertical-align: middle; }
+.doc_table td:first-child { opacity: 0.8; white-space: nowrap; width: 120px; }
+.conf {
+	display: inline-block;
+	width: 120px;
+	height: 8px;
+	background: rgba(0,0,0,0.25);
+	border-radius: 4px;
+	vertical-align: middle;
+}
+.conf_bar { height: 100%; background: #2ecc71; border-radius: 4px; }
+.conf_bar.low { background: #f1c40f; }
+.review_box { margin: 8px 0; font-size: 13px; }
+.type_select { font-size: 12px; border-radius: 6px; }
+.doc_card details { margin-top: 6px; font-size: 12px; }
+.doc_card summary { cursor: pointer; }
+.doc_card pre {
+	white-space: pre-wrap;
+	background: rgba(0,0,0,0.25);
+	color: #fff;
+	padding: 8px;
+	border-radius: 8px;
+	max-height: 200px;
+	overflow-y: auto;
+	font-size: 11px;
+}
+.doc_hint { margin-top: 6px; font-size: 12px; }
+.doc_hint a { color: #fff; text-decoration: underline; }

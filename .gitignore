@@ -210,3 +210,6 @@ __marimo__/
 models/*.joblib
 reports/*.png
 reports/*.txt
+
+# Uploaded case documents (never commit patient files)
+uploads/

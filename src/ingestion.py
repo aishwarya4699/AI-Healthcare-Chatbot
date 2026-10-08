@@ -5,6 +5,27 @@ from langchain.document_loaders import PyPDFLoader
 from langchain.schema import Document
 
 IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".tif", ".tiff"}
+TEXT_EXTENSIONS = {".txt"}
+SUPPORTED_EXTENSIONS = {".pdf"} | IMAGE_EXTENSIONS | TEXT_EXTENSIONS
+
+
+def load_file(file_path) -> List[Document]:
+    """Load a single file into page-level Documents.
+
+    - PDF: native text per page (OCR fallback is applied later in src.ocr)
+    - Image: empty page_content (always OCR'd in src.ocr)
+    - TXT: text as-is (already digital)
+    """
+    path = Path(file_path)
+    suffix = path.suffix.lower()
+    if suffix == ".pdf":
+        return _load_pdf(path)
+    if suffix in IMAGE_EXTENSIONS:
+        return [Document(page_content="", metadata={"source": str(path), "page": 1})]
+    if suffix in TEXT_EXTENSIONS:
+        text = path.read_text(encoding="utf-8", errors="ignore")
+        return [Document(page_content=text, metadata={"source": str(path), "page": 1})]
+    raise ValueError(f"Unsupported file type: {suffix}")
 
 
 def load_documents(data_dir: str = "data/") -> List[Document]:
