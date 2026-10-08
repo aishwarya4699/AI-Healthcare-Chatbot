@@ -213,3 +213,6 @@ reports/*.txt
 
 # Uploaded case documents (never commit patient files)
 uploads/
+
+# macOS
+.DS_Store
