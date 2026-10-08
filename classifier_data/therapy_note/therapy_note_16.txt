@@ -1,0 +1,19 @@
+PHYSICAL THERAPY DAILY TREATMENT NOTE (SYNTHETIC, NO PHI)
+Patient: Test Patient 316    Visit 3 of 20    Therapist: J. Lee, PT
+
+Diagnosis / focus: right hip after replacement
+
+Subjective:
+Patient reports pain 4/10 today and is doing the home exercise program most days.
+
+Objective:
+hip flexion 85 deg. Tolerated session well.
+
+Interventions (53 minutes):
+Bed mobility, stair training, hip abductor strengthening.
+
+Assessment:
+Progressing toward short-term goals. Improved function compared with initial evaluation.
+
+Plan:
+Continue plan of care 2x per week. Update home exercise program. Re-assess goals at visit 16.

@@ -1,0 +1,19 @@
+PRIOR AUTHORIZATION REQUEST FORM (SYNTHETIC, NO PHI)
+Health plan: Sample Health Plan    Fax: (512) 555-0127
+
+SECTION A - MEMBER INFORMATION
+Member name: Test Member 217    Member ID: DEMO-5017    DOB: 01/01/1977
+
+SECTION B - PROVIDER INFORMATION
+Ordering provider: Dr. A. Rivera    NPI: 1716782763
+Facility: Lakeview Medical Group    Phone: (512) 555-0227
+
+SECTION C - SERVICE REQUESTED
+Service: Semaglutide injection
+CPT/HCPCS code: J3490    Diagnosis code (ICD-10): E11.65
+Units: 1    Requested start date: 11/01/2026
+Request type: [X] Standard  [ ] Urgent
+
+SECTION D - ATTESTATION
+I attest that the information provided is accurate. Clinical notes attached.
+Provider signature: ____________________    Date: 10/27/2026

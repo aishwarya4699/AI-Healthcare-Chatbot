@@ -1,0 +1,19 @@
+PRIOR AUTHORIZATION REQUEST FORM (SYNTHETIC, NO PHI)
+Health plan: Sample Health Plan    Fax: (512) 555-0123
+
+SECTION A - MEMBER INFORMATION
+Member name: Test Member 213    Member ID: DEMO-5013    DOB: 01/01/1973
+
+SECTION B - PROVIDER INFORMATION
+Ordering provider: Dr. C. Okafor    NPI: 1599936196
+Facility: Westside Health Center    Phone: (512) 555-0223
+
+SECTION C - SERVICE REQUESTED
+Service: CT abdomen and pelvis with contrast
+CPT/HCPCS code: 74177    Diagnosis code (ICD-10): R10.31
+Units: 1    Requested start date: 11/01/2026
+Request type: [X] Standard  [ ] Urgent
+
+SECTION D - ATTESTATION
+I attest that the information provided is accurate. Clinical notes attached.
+Provider signature: ____________________    Date: 10/23/2026

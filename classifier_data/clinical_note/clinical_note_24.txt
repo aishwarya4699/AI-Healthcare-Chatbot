@@ -1,0 +1,19 @@
+WESTSIDE HEALTH CENTER - OFFICE VISIT NOTE (SYNTHETIC, NO PHI)
+Patient: Test Patient 124    Age: 35    Date of service: 08/18/2026
+Provider: Dr. D. Patel
+
+Chief complaint:
+Visit for ankle sprain.
+
+History of present illness:
+Patient reports left ankle pain after twisting it playing soccer yesterday. Denies fever or weight loss. Medications reviewed.
+
+Physical examination:
+Lateral swelling, can bear weight, Ottawa rules negative.
+
+Assessment:
+Lateral ankle sprain, grade 1.
+
+Plan:
+RICE, ankle brace, follow up in 2 weeks.
+Patient counseled and agrees with plan.

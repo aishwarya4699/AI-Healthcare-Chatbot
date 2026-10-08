@@ -1,0 +1,19 @@
+OAK PARK SPECIALTY CLINIC - OFFICE VISIT NOTE (SYNTHETIC, NO PHI)
+Patient: Test Patient 118    Age: 59    Date of service: 01/19/2026
+Provider: Dr. E. Novak
+
+Chief complaint:
+Visit for shoulder pain.
+
+History of present illness:
+Patient reports right shoulder pain with overhead reaching for 2 months. Denies fever or weight loss. Medications reviewed.
+
+Physical examination:
+Painful arc, positive Hawkins test.
+
+Assessment:
+Rotator cuff tendinopathy.
+
+Plan:
+Refer to physical therapy. Ibuprofen as needed.
+Patient counseled and agrees with plan.

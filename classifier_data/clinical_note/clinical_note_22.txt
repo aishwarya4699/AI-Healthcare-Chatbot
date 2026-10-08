@@ -1,0 +1,19 @@
+NORTHGATE INTERNAL MEDICINE - OFFICE VISIT NOTE (SYNTHETIC, NO PHI)
+Patient: Test Patient 122    Age: 28    Date of service: 04/15/2026
+Provider: Dr. A. Rivera
+
+Chief complaint:
+Visit for urinary tract infection.
+
+History of present illness:
+Patient reports burning with urination and frequency for 2 days. Denies fever or weight loss. Medications reviewed.
+
+Physical examination:
+Urinalysis positive for nitrites and leukocytes.
+
+Assessment:
+Acute uncomplicated cystitis.
+
+Plan:
+Nitrofurantoin 100 mg twice daily for 5 days.
+Patient counseled and agrees with plan.

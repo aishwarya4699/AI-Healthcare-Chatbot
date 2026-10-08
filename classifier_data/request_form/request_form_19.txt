@@ -1,0 +1,19 @@
+PRIOR AUTHORIZATION REQUEST FORM (SYNTHETIC, NO PHI)
+Health plan: Sample Health Plan    Fax: (512) 555-0129
+
+SECTION A - MEMBER INFORMATION
+Member name: Test Member 219    Member ID: DEMO-5019    DOB: 01/01/1979
+
+SECTION B - PROVIDER INFORMATION
+Ordering provider: Dr. F. Haddad    NPI: 1581932046
+Facility: Lakeview Medical Group    Phone: (512) 555-0229
+
+SECTION C - SERVICE REQUESTED
+Service: Screening colonoscopy
+CPT/HCPCS code: 45378    Diagnosis code (ICD-10): Z12.11
+Units: 1    Requested start date: 11/01/2026
+Request type: [X] Standard  [ ] Urgent
+
+SECTION D - ATTESTATION
+I attest that the information provided is accurate. Clinical notes attached.
+Provider signature: ____________________    Date: 10/29/2026

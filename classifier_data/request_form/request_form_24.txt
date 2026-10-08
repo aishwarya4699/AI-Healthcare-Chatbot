@@ -1,0 +1,19 @@
+PRIOR AUTHORIZATION REQUEST FORM (SYNTHETIC, NO PHI)
+Health plan: Sample Health Plan    Fax: (512) 555-0134
+
+SECTION A - MEMBER INFORMATION
+Member name: Test Member 224    Member ID: DEMO-5024    DOB: 01/01/1984
+
+SECTION B - PROVIDER INFORMATION
+Ordering provider: Dr. A. Rivera    NPI: 1920951719
+Facility: Westside Health Center    Phone: (512) 555-0234
+
+SECTION C - SERVICE REQUESTED
+Service: Home oxygen concentrator
+CPT/HCPCS code: E1390    Diagnosis code (ICD-10): J44.9
+Units: 1    Requested start date: 11/01/2026
+Request type: [ ] Standard  [X] Urgent
+
+SECTION D - ATTESTATION
+I attest that the information provided is accurate. Clinical notes attached.
+Provider signature: ____________________    Date: 10/34/2026

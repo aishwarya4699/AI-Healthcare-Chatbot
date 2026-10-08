@@ -1,0 +1,19 @@
+PRIOR AUTHORIZATION REQUEST FORM (SYNTHETIC, NO PHI)
+Health plan: Sample Health Plan    Fax: (512) 555-0125
+
+SECTION A - MEMBER INFORMATION
+Member name: Test Member 215    Member ID: DEMO-5015    DOB: 01/01/1975
+
+SECTION B - PROVIDER INFORMATION
+Ordering provider: Dr. B. Chen    NPI: 1952958473
+Facility: Northgate Internal Medicine    Phone: (512) 555-0225
+
+SECTION C - SERVICE REQUESTED
+Service: CPAP machine and supplies
+CPT/HCPCS code: E0601    Diagnosis code (ICD-10): G47.33
+Units: 1    Requested start date: 11/01/2026
+Request type: [ ] Standard  [X] Urgent
+
+SECTION D - ATTESTATION
+I attest that the information provided is accurate. Clinical notes attached.
+Provider signature: ____________________    Date: 10/25/2026

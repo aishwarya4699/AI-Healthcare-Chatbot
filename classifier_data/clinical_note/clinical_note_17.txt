@@ -1,0 +1,19 @@
+HILLCREST PRIMARY CARE - OFFICE VISIT NOTE (SYNTHETIC, NO PHI)
+Patient: Test Patient 117    Age: 25    Date of service: 02/13/2026
+Provider: Dr. F. Haddad
+
+Chief complaint:
+Visit for low back pain.
+
+History of present illness:
+Patient reports lower back pain after lifting boxes 3 weeks ago. Denies fever or weight loss. Medications reviewed.
+
+Physical examination:
+Paraspinal tenderness, straight leg raise negative.
+
+Assessment:
+Acute mechanical low back pain.
+
+Plan:
+NSAIDs, activity as tolerated, return if numbness or weakness.
+Patient counseled and agrees with plan.

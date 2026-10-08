@@ -1,0 +1,19 @@
+PRIOR AUTHORIZATION REQUEST FORM (SYNTHETIC, NO PHI)
+Health plan: Sample Health Plan    Fax: (512) 555-0126
+
+SECTION A - MEMBER INFORMATION
+Member name: Test Member 216    Member ID: DEMO-5016    DOB: 01/01/1976
+
+SECTION B - PROVIDER INFORMATION
+Ordering provider: Dr. F. Haddad    NPI: 1937335688
+Facility: Northgate Internal Medicine    Phone: (512) 555-0226
+
+SECTION C - SERVICE REQUESTED
+Service: Adalimumab 40 mg injection
+CPT/HCPCS code: J0135    Diagnosis code (ICD-10): M05.79
+Units: 1    Requested start date: 11/01/2026
+Request type: [X] Standard  [ ] Urgent
+
+SECTION D - ATTESTATION
+I attest that the information provided is accurate. Clinical notes attached.
+Provider signature: ____________________    Date: 10/26/2026

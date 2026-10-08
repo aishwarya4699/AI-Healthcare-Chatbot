@@ -1,0 +1,21 @@
+SAMPLE HEALTH PLAN - MEDICAL POLICY (SYNTHETIC)
+Policy number: MED-201
+Title: Polysomnography for Obstructive Sleep Apnea
+Effective date: 01/01/2026    Last reviewed: 06/01/2026
+
+Policy statement:
+Polysomnography for Obstructive Sleep Apnea is considered medically necessary when the coverage criteria below are met.
+
+Coverage criteria:
+1. The diagnosis is documented by a qualified provider.
+2. Conservative or first-line treatment has been tried and was not effective, when applicable.
+3. Required tests or measurements are documented in the medical record.
+
+Not medically necessary:
+Requests that do not meet the criteria above, or for convenience, are not covered.
+
+Documentation requirements:
+Office notes, test results and treatment history must be submitted with the request.
+
+Applicable codes and references:
+See coding appendix. This policy is reviewed annually by the medical policy committee.

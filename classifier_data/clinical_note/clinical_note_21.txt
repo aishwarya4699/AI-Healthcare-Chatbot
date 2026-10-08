@@ -1,0 +1,19 @@
+RIVERSIDE FAMILY CLINIC - OFFICE VISIT NOTE (SYNTHETIC, NO PHI)
+Patient: Test Patient 121    Age: 58    Date of service: 05/18/2026
+Provider: Dr. F. Haddad
+
+Chief complaint:
+Visit for hypothyroidism.
+
+History of present illness:
+Patient reports weight gain, cold intolerance and dry skin. Denies fever or weight loss. Medications reviewed.
+
+Physical examination:
+TSH 9.8, free T4 low, thyroid not enlarged.
+
+Assessment:
+Primary hypothyroidism.
+
+Plan:
+Start levothyroxine 50 mcg daily. Repeat TSH in 6 weeks.
+Patient counseled and agrees with plan.

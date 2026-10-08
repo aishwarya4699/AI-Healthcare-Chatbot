@@ -1,0 +1,19 @@
+PRIOR AUTHORIZATION REQUEST FORM (SYNTHETIC, NO PHI)
+Health plan: Sample Health Plan    Fax: (512) 555-0133
+
+SECTION A - MEMBER INFORMATION
+Member name: Test Member 223    Member ID: DEMO-5023    DOB: 01/01/1983
+
+SECTION B - PROVIDER INFORMATION
+Ordering provider: Dr. D. Patel    NPI: 1142098469
+Facility: Oak Park Specialty Clinic    Phone: (512) 555-0233
+
+SECTION C - SERVICE REQUESTED
+Service: Insulin pump
+CPT/HCPCS code: E0784    Diagnosis code (ICD-10): E10.65
+Units: 1    Requested start date: 11/01/2026
+Request type: [X] Standard  [ ] Urgent
+
+SECTION D - ATTESTATION
+I attest that the information provided is accurate. Clinical notes attached.
+Provider signature: ____________________    Date: 10/33/2026

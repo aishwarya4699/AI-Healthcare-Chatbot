@@ -1,0 +1,19 @@
+PRIOR AUTHORIZATION REQUEST FORM (SYNTHETIC, NO PHI)
+Health plan: Sample Health Plan    Fax: (512) 555-0132
+
+SECTION A - MEMBER INFORMATION
+Member name: Test Member 222    Member ID: DEMO-5022    DOB: 01/01/1982
+
+SECTION B - PROVIDER INFORMATION
+Ordering provider: Dr. C. Okafor    NPI: 1263192149
+Facility: Hillcrest Primary Care    Phone: (512) 555-0232
+
+SECTION C - SERVICE REQUESTED
+Service: MRI brain with and without contrast
+CPT/HCPCS code: 70553    Diagnosis code (ICD-10): G43.909
+Units: 1    Requested start date: 11/01/2026
+Request type: [X] Standard  [ ] Urgent
+
+SECTION D - ATTESTATION
+I attest that the information provided is accurate. Clinical notes attached.
+Provider signature: ____________________    Date: 10/32/2026

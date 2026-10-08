@@ -1,0 +1,19 @@
+WESTSIDE HEALTH CENTER - OFFICE VISIT NOTE (SYNTHETIC, NO PHI)
+Patient: Test Patient 114    Age: 28    Date of service: 06/19/2026
+Provider: Dr. A. Rivera
+
+Chief complaint:
+Visit for type 2 diabetes visit.
+
+History of present illness:
+Patient reports fatigue and increased thirst for 2 months. Denies fever or weight loss. Medications reviewed.
+
+Physical examination:
+A1c 8.9%, BMI 33, monofilament normal.
+
+Assessment:
+Type 2 diabetes mellitus, uncontrolled.
+
+Plan:
+Start metformin 500 mg twice daily. Diabetes education referral.
+Patient counseled and agrees with plan.

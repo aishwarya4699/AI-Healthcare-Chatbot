@@ -1,0 +1,19 @@
+HILLCREST PRIMARY CARE - OFFICE VISIT NOTE (SYNTHETIC, NO PHI)
+Patient: Test Patient 119    Age: 25    Date of service: 04/10/2026
+Provider: Dr. E. Novak
+
+Chief complaint:
+Visit for GERD.
+
+History of present illness:
+Patient reports burning chest discomfort after meals for 6 weeks. Denies fever or weight loss. Medications reviewed.
+
+Physical examination:
+Abdomen soft, mild epigastric tenderness.
+
+Assessment:
+Gastroesophageal reflux disease.
+
+Plan:
+Start omeprazole 20 mg daily. Avoid late meals.
+Patient counseled and agrees with plan.

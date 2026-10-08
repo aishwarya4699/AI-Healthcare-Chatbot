@@ -1,0 +1,19 @@
+PRIOR AUTHORIZATION REQUEST FORM (SYNTHETIC, NO PHI)
+Health plan: Sample Health Plan    Fax: (512) 555-0128
+
+SECTION A - MEMBER INFORMATION
+Member name: Test Member 218    Member ID: DEMO-5018    DOB: 01/01/1978
+
+SECTION B - PROVIDER INFORMATION
+Ordering provider: Dr. E. Novak    NPI: 1631627137
+Facility: Lakeview Medical Group    Phone: (512) 555-0228
+
+SECTION C - SERVICE REQUESTED
+Service: Physical therapy, 12 visits
+CPT/HCPCS code: 97110    Diagnosis code (ICD-10): M54.50
+Units: 1    Requested start date: 11/01/2026
+Request type: [ ] Standard  [X] Urgent
+
+SECTION D - ATTESTATION
+I attest that the information provided is accurate. Clinical notes attached.
+Provider signature: ____________________    Date: 10/28/2026

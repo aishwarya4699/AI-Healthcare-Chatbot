@@ -1,0 +1,19 @@
+HILLCREST PRIMARY CARE - OFFICE VISIT NOTE (SYNTHETIC, NO PHI)
+Patient: Test Patient 116    Age: 26    Date of service: 04/11/2026
+Provider: Dr. E. Novak
+
+Chief complaint:
+Visit for migraine.
+
+History of present illness:
+Patient reports recurrent throbbing headaches with nausea 6 times per month. Denies fever or weight loss. Medications reviewed.
+
+Physical examination:
+Neuro exam normal, no papilledema.
+
+Assessment:
+Migraine without aura.
+
+Plan:
+Start topiramate 25 mg nightly. Headache diary.
+Patient counseled and agrees with plan.

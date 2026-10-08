@@ -1,0 +1,19 @@
+WESTSIDE HEALTH CENTER - OFFICE VISIT NOTE (SYNTHETIC, NO PHI)
+Patient: Test Patient 123    Age: 67    Date of service: 02/19/2026
+Provider: Dr. A. Rivera
+
+Chief complaint:
+Visit for COPD.
+
+History of present illness:
+Patient reports chronic cough and breathlessness walking one block. Denies fever or weight loss. Medications reviewed.
+
+Physical examination:
+Prolonged expiration, FEV1/FVC 0.62.
+
+Assessment:
+Chronic obstructive pulmonary disease.
+
+Plan:
+Start tiotropium inhaler. Pulmonary rehab referral.
+Patient counseled and agrees with plan.

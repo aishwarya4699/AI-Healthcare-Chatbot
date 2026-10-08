@@ -1,0 +1,19 @@
+LAKEVIEW MEDICAL GROUP - OFFICE VISIT NOTE (SYNTHETIC, NO PHI)
+Patient: Test Patient 113    Age: 31    Date of service: 07/10/2026
+Provider: Dr. A. Rivera
+
+Chief complaint:
+Visit for hypertension follow-up.
+
+History of present illness:
+Patient reports blood pressure readings at home around 150/95. Denies fever or weight loss. Medications reviewed.
+
+Physical examination:
+BP 152/94, HR 78, heart regular, no edema.
+
+Assessment:
+Essential hypertension, not at goal.
+
+Plan:
+Increase lisinopril to 20 mg daily. Recheck BP in 4 weeks.
+Patient counseled and agrees with plan.

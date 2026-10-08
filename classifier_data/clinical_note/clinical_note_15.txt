@@ -1,0 +1,19 @@
+WESTSIDE HEALTH CENTER - OFFICE VISIT NOTE (SYNTHETIC, NO PHI)
+Patient: Test Patient 115    Age: 35    Date of service: 01/11/2026
+Provider: Dr. D. Patel
+
+Chief complaint:
+Visit for asthma exacerbation.
+
+History of present illness:
+Patient reports wheezing and shortness of breath for 4 days. Denies fever or weight loss. Medications reviewed.
+
+Physical examination:
+Expiratory wheezes bilaterally, O2 sat 95%.
+
+Assessment:
+Moderate persistent asthma with acute exacerbation.
+
+Plan:
+Prednisone burst 40 mg x5 days, start inhaled steroid.
+Patient counseled and agrees with plan.

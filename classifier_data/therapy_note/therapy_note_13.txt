@@ -1,0 +1,19 @@
+PHYSICAL THERAPY DAILY TREATMENT NOTE (SYNTHETIC, NO PHI)
+Patient: Test Patient 313    Visit 12 of 16    Therapist: J. Lee, PT
+
+Diagnosis / focus: right shoulder
+
+Subjective:
+Patient reports pain 4/10 today and is doing the home exercise program most days.
+
+Objective:
+flexion 120 deg, abduction 100 deg. Tolerated session well.
+
+Interventions (53 minutes):
+Therapeutic exercise, manual therapy, scapular stabilization.
+
+Assessment:
+Progressing toward short-term goals. Improved function compared with initial evaluation.
+
+Plan:
+Continue plan of care 2x per week. Update home exercise program. Re-assess goals at visit 16.

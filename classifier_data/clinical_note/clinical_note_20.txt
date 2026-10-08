@@ -1,0 +1,19 @@
+NORTHGATE INTERNAL MEDICINE - OFFICE VISIT NOTE (SYNTHETIC, NO PHI)
+Patient: Test Patient 120    Age: 40    Date of service: 07/12/2026
+Provider: Dr. E. Novak
+
+Chief complaint:
+Visit for depression follow-up.
+
+History of present illness:
+Patient reports low mood and poor sleep, improved since last visit. Denies fever or weight loss. Medications reviewed.
+
+Physical examination:
+PHQ-9 score 11, down from 17.
+
+Assessment:
+Major depressive disorder, improving.
+
+Plan:
+Continue sertraline 100 mg. Follow up in 6 weeks.
+Patient counseled and agrees with plan.

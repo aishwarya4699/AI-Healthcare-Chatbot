@@ -1,0 +1,19 @@
+PRIOR AUTHORIZATION REQUEST FORM (SYNTHETIC, NO PHI)
+Health plan: Sample Health Plan    Fax: (512) 555-0131
+
+SECTION A - MEMBER INFORMATION
+Member name: Test Member 221    Member ID: DEMO-5021    DOB: 01/01/1981
+
+SECTION B - PROVIDER INFORMATION
+Ordering provider: Dr. E. Novak    NPI: 1548955962
+Facility: Northgate Internal Medicine    Phone: (512) 555-0231
+
+SECTION C - SERVICE REQUESTED
+Service: Power wheelchair
+CPT/HCPCS code: K0823    Diagnosis code (ICD-10): G35
+Units: 1    Requested start date: 11/01/2026
+Request type: [ ] Standard  [X] Urgent
+
+SECTION D - ATTESTATION
+I attest that the information provided is accurate. Clinical notes attached.
+Provider signature: ____________________    Date: 10/31/2026

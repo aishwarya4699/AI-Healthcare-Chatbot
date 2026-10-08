@@ -1,0 +1,19 @@
+PHYSICAL THERAPY DAILY TREATMENT NOTE (SYNTHETIC, NO PHI)
+Patient: Test Patient 323    Visit 8 of 20    Therapist: J. Lee, PT
+
+Diagnosis / focus: thoracic spine
+
+Subjective:
+Patient reports pain 5/10 today and is doing the home exercise program most days.
+
+Objective:
+thoracic rotation limited. Tolerated session well.
+
+Interventions (38 minutes):
+Mobility exercises, breathing exercises, posture.
+
+Assessment:
+Progressing toward short-term goals. Improved function compared with initial evaluation.
+
+Plan:
+Continue plan of care 2x per week. Update home exercise program. Re-assess goals at visit 12.

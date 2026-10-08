@@ -1,0 +1,19 @@
+PRIOR AUTHORIZATION REQUEST FORM (SYNTHETIC, NO PHI)
+Health plan: Sample Health Plan    Fax: (512) 555-0124
+
+SECTION A - MEMBER INFORMATION
+Member name: Test Member 214    Member ID: DEMO-5014    DOB: 01/01/1974
+
+SECTION B - PROVIDER INFORMATION
+Ordering provider: Dr. D. Patel    NPI: 1488246102
+Facility: Lakeview Medical Group    Phone: (512) 555-0224
+
+SECTION C - SERVICE REQUESTED
+Service: Polysomnography sleep study
+CPT/HCPCS code: 95810    Diagnosis code (ICD-10): G47.33
+Units: 1    Requested start date: 11/01/2026
+Request type: [X] Standard  [ ] Urgent
+
+SECTION D - ATTESTATION
+I attest that the information provided is accurate. Clinical notes attached.
+Provider signature: ____________________    Date: 10/24/2026

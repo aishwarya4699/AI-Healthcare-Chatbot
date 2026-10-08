@@ -1,0 +1,19 @@
+PRIOR AUTHORIZATION REQUEST FORM (SYNTHETIC, NO PHI)
+Health plan: Sample Health Plan    Fax: (512) 555-0130
+
+SECTION A - MEMBER INFORMATION
+Member name: Test Member 220    Member ID: DEMO-5020    DOB: 01/01/1980
+
+SECTION B - PROVIDER INFORMATION
+Ordering provider: Dr. E. Novak    NPI: 1178598835
+Facility: Riverside Family Clinic    Phone: (512) 555-0230
+
+SECTION C - SERVICE REQUESTED
+Service: Lumbar epidural steroid injection
+CPT/HCPCS code: 62323    Diagnosis code (ICD-10): M54.16
+Units: 1    Requested start date: 11/01/2026
+Request type: [X] Standard  [ ] Urgent
+
+SECTION D - ATTESTATION
+I attest that the information provided is accurate. Clinical notes attached.
+Provider signature: ____________________    Date: 10/30/2026
