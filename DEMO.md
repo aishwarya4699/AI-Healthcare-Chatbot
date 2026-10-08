@@ -37,7 +37,7 @@ python app.py                            # http://localhost:8080
 
 ## Demo script (~5 min) – one story: acne
 1. **Baseline RAG** – ask "What is acne?" → answer from Medical_book p. 38 (almost word for word).
-2. **Scanned fax** – upload `samples/acne_isotretinoin_request_scanned_fax.pdf`
+2. **Scanned fax** – upload `samples/fax_derm_clinic_1002.pdf`
    (a dermatologist asking the insurer to cover isotretinoin / Accutane).
    → card shows OCR (no native text in the PDF), predicted *request form*, low confidence, *Needs review*.
    It's really a clinical note that contains a request → change dropdown to *clinical note* → Confirm.
@@ -45,7 +45,7 @@ python app.py                            # http://localhost:8080
 3. Click **"Does this patient meet the policy criteria?"**
    → isotretinoin policy retrieved; severity, 3+ months antibiotic + topical, iPLEDGE met; pregnancy N/A (male)
    → "route for approval" [Policy: isotretinoin_acne_policy].
-4. **Clear case**, upload `samples/acne_mild_case_scan.png` (16 y/o, moderate acne, only 2 weeks OTC gel)
+4. **Clear case**, upload `samples/fax_family_med_1005.png` (16 y/o, moderate acne, only 2 weeks OTC gel)
    → same question → severity / prior treatment / iPLEDGE / pregnancy test not met → "pend / request more info".
 5. Show `reports/` (classification report + confusion matrix) and be honest about the limits.
 
