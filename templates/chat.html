@@ -154,7 +154,7 @@ function renderDocCard(r) {
 		(r.warning ? '<div class="text-warning small mt-1">' + esc(r.warning) + "</div>" : "") +
 		'<details><summary>Extracted text preview</summary><pre>' + esc(r.preview) + "</pre></details>" +
 		'<div class="doc_hint">Try: <a href="#" class="suggest">Summarize this case</a> &middot; ' +
-		'<a href="#" class="suggest">Does this patient meet the knee MRI policy criteria?</a></div>' +
+		'<a href="#" class="suggest">Does this patient meet the policy criteria?</a></div>' +
 		"</div>";
 	addBot(html);
 	$("#caseName").text(r.filename);

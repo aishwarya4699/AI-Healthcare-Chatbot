@@ -1,0 +1,27 @@
+SAMPLE HEALTH PLAN - PHARMACY PRIOR AUTHORIZATION POLICY (SYNTHETIC, FOR DEMO ONLY)
+Policy ID: RX-318
+Title: Isotretinoin (oral) for Acne
+Effective date: 01/01/2026
+
+Purpose:
+This policy defines when oral isotretinoin is covered for members with acne.
+
+Approval criteria:
+Oral isotretinoin is considered medically necessary when ALL of the following criteria are documented:
+
+Criterion 1 - Severity: Diagnosis of severe recalcitrant nodular (nodulocystic) acne, OR moderate acne that is causing scarring.
+
+Criterion 2 - Prior treatment failure: The member has tried and failed at least 3 months (12 weeks) of an oral antibiotic (for example doxycycline or minocycline) used together with a topical therapy (for example a topical retinoid such as tretinoin, or benzoyl peroxide).
+
+Criterion 3 - Safety program: The prescriber and the member are registered in the iPLEDGE REMS program.
+
+Criterion 4 - Pregnancy prevention: For members who can become pregnant, a negative pregnancy test and two forms of contraception are documented. This criterion is not applicable to members who cannot become pregnant.
+
+Approval duration:
+Initial approval is for one course of up to 20 weeks.
+
+Not medically necessary:
+Mild or moderate acne without scarring that has not been treated with an oral antibiotic plus topical therapy for at least 3 months.
+
+Review process:
+Requests that do not clearly meet criteria are pended for review by a licensed clinical pharmacist or physician reviewer. Only a physician reviewer may issue an adverse determination.

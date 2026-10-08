@@ -35,16 +35,21 @@ python app.py                            # http://localhost:8080
 ```
 (Full rebuild with new metadata on the book: `python store_index.py --reset` – slower.)
 
-## Demo script (~5 min)
-1. **Baseline RAG** – ask "What causes knee pain?" → answer + Medical_book source chip.
-2. **Scanned fax** – upload `samples/knee_mri_request_scanned_fax.pdf`
-   → card shows OCR (no native text in the PDF), clinical_note, confidence, *Needs review*.
-   Confirm the type → "Confirmed by reviewer" (human in the loop).
-3. Click **"Does this patient meet the knee MRI policy criteria?"**
-   → 4 criteria, each Met with quoted evidence → "route for approval" [Policy: knee_mri_policy].
-4. **Clear case**, upload `samples/knee_pain_2_weeks.png` (2 weeks of pain, no PT yet)
-   → same question → duration / conservative treatment not met → "pend / request more info".
+## Demo script (~5 min) – one story: acne
+1. **Baseline RAG** – ask "What is acne?" → answer from Medical_book p. 38 (almost word for word).
+2. **Scanned fax** – upload `samples/acne_isotretinoin_request_scanned_fax.pdf`
+   (a dermatologist asking the insurer to cover isotretinoin / Accutane).
+   → card shows OCR (no native text in the PDF), predicted *request form*, low confidence, *Needs review*.
+   It's really a clinical note that contains a request → change dropdown to *clinical note* → Confirm.
+   ("This is exactly why low-confidence predictions go to a human.")
+3. Click **"Does this patient meet the policy criteria?"**
+   → isotretinoin policy retrieved; severity, 3+ months antibiotic + topical, iPLEDGE met; pregnancy N/A (male)
+   → "route for approval" [Policy: isotretinoin_acne_policy].
+4. **Clear case**, upload `samples/acne_mild_case_scan.png` (16 y/o, moderate acne, only 2 weeks OTC gel)
+   → same question → severity / prior treatment / iPLEDGE / pregnancy test not met → "pend / request more info".
 5. Show `reports/` (classification report + confusion matrix) and be honest about the limits.
+
+Backup case (knee): `samples/knee_mri_request_scanned_fax.pdf` (meets) and `samples/knee_pain_2_weeks.png` (not met).
 
 ## Honest limitations → next steps
 | Today | Next step |

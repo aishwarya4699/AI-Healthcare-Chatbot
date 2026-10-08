@@ -34,8 +34,10 @@ docsearch = PineconeVectorStore.from_existing_index(
     index_name="medical-chatbot", embedding=embeddings
 )
 
-# General retriever: same as the original chatbot (top 3 chunks).
-reference_retriever = docsearch.as_retriever(search_type="similarity", search_kwargs={"k": 3})
+# Reference retriever: medical book only (top 3 chunks), like the original chatbot.
+reference_retriever = docsearch.as_retriever(
+    search_type="similarity", search_kwargs={"k": 3, "filter": {"source_type": "reference"}}
+)
 # Policy retriever: only payer policies (metadata filter), used when a case is open.
 policy_retriever = docsearch.as_retriever(
     search_type="similarity", search_kwargs={"k": 2, "filter": {"source_type": "policy"}}

@@ -1,0 +1,30 @@
+DERMATOLOGY CLINIC - PROGRESS NOTE (SYNTHETIC TEST PATIENT, NO PHI)
+Patient: Test Patient C    Sex: Male    Age: 19    Member ID: DEMO-0003
+Date of visit: 10/02/2026
+Requested medication: Isotretinoin 40 mg oral capsules, 20-week course
+Diagnosis: Severe nodulocystic acne with scarring (ICD-10 L70.0)
+
+Chief complaint:
+Painful nodules and cysts on the face, chest and back for over 2 years.
+
+History:
+The patient used topical tretinoin 0.05% cream nightly and benzoyl
+peroxide 5% wash daily together with oral doxycycline 100 mg twice daily
+for 4 months (06/01/2026 - 09/30/2026). There was minimal improvement
+and new nodules continue to form.
+
+Examination:
+Multiple deep inflammatory nodules and cysts on the cheeks, jawline,
+chest and upper back. Atrophic scarring on both cheeks.
+
+Safety:
+Patient and prescriber registered in the iPLEDGE REMS program on
+10/02/2026. Baseline lipid panel and liver function tests are normal.
+Patient is male; pregnancy testing not applicable.
+
+Assessment:
+Severe nodulocystic acne with scarring, not responding to 4 months of
+oral antibiotic plus topical retinoid and benzoyl peroxide.
+
+Plan:
+Start isotretinoin 40 mg daily. Request prior authorization.
