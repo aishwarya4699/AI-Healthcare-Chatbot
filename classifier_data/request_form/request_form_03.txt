@@ -1,0 +1,1 @@
+Service authorization request. Requested procedure: physical therapy evaluation. Ordering office: Demo Family Clinic. This is a request form, not a clinical note.

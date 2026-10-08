@@ -1,0 +1,1 @@
+Coverage policy for therapy services. Physical therapy visits require authorization after a set number. This policy governs covered services.

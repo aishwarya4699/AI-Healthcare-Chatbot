@@ -1,0 +1,1 @@
+Prior authorization request form. Clinic North. Patient A. Requested service: outpatient MRI of the left knee. Referring clinician: Dr. Sample. Please approve this referral request.

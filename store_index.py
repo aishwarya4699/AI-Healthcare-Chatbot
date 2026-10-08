@@ -1,6 +1,7 @@
 from dotenv import load_dotenv
 import os
-from src.helper import load_pdf_file, filter_to_minimal_docs, text_split, download_hugging_face_embeddings
+from src.helper import text_split, download_hugging_face_embeddings
+from src.pipeline import prepare_documents
 from pinecone import Pinecone
 from pinecone import ServerlessSpec 
 from langchain_pinecone import PineconeVectorStore
@@ -15,9 +16,8 @@ os.environ["PINECONE_API_KEY"] = PINECONE_API_KEY
 os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 
 
-extracted_data=load_pdf_file(data='data/')
-filter_data = filter_to_minimal_docs(extracted_data)
-text_chunks=text_split(filter_data)
+filter_data = prepare_documents(data_dir="data/")
+text_chunks = text_split(filter_data)
 
 embeddings = download_hugging_face_embeddings()
 

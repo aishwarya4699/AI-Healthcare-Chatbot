@@ -1,0 +1,1 @@
+Medication prior authorization request. Drug requested: example inhaler. Diagnosis listed as sample asthma. Please approve the requested medication.

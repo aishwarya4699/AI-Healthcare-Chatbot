@@ -24,8 +24,30 @@ conda activate medibot
 pip install -r requirements.txt
 ```
 
+OCR fallback also needs local system packages (not installed by pip):
 
-### STEP 03- Create a `.env` file in the root directory and add your Pinecone & openai credentials as follows:
+```bash
+# macOS
+brew install tesseract poppler
+
+# Debian/Ubuntu
+sudo apt-get install -y tesseract-ocr poppler-utils
+```
+
+### STEP 03- Train and evaluate the demo document classifier
+
+The four-class page classifier (TF-IDF + Logistic Regression) is trained on **synthetic, non-PHI** texts in `classifier_data/`. That folder is separate from production ingest in `data/`.
+
+```bash
+python train_classifier.py
+python evaluate_classifier.py
+```
+
+Evaluation prints accuracy, precision, recall, and F1, and writes `reports/classification_report.txt` plus `reports/confusion_matrix.png`.
+
+These metrics only show that the demo pipeline runs. They are **not** representative of production clinical performance.
+
+### STEP 04- Create a `.env` file in the root directory and add your Pinecone & openai credentials as follows:
 
 ```ini
 PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
@@ -34,9 +56,13 @@ OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 
 ```bash
-# run the following command to store embeddings to pinecone
+# Place medical PDFs and images (png, jpg, jpeg, tif, tiff) in data/, then index
 python store_index.py
 ```
+
+`store_index.py` now runs a small Document AI step first: load files from `data/`, extract digital PDF text, OCR pages/images when native text is short, classify each page, then use the existing chunking, embeddings, and Pinecone RAG path.
+
+OCR uses a prototype character-count heuristic (default 50, override with `OCR_MIN_EXTRACTED_CHARS`). In production this threshold should be tuned with evaluation data.
 
 ```bash
 # Finally run the following command
@@ -56,6 +82,8 @@ open up localhost:
 - Flask
 - GPT
 - Pinecone
+- Tesseract OCR (scanned/image fallback)
+- scikit-learn (TF-IDF + Logistic Regression document classification)
 
 
 

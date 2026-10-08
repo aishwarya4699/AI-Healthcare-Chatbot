@@ -1,0 +1,14 @@
+Patient Name: Test Patient
+Date: 10/07/2026
+
+Chief Complaint:
+Patient presents with persistent right knee pain for the past two weeks.
+
+History:
+The patient reports increased pain while walking and climbing stairs. No recent trauma was reported.
+
+Assessment:
+Possible knee strain with mild inflammation.
+
+Plan:
+Recommend rest, physical therapy evaluation, and follow-up if symptoms persist.

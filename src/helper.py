@@ -18,17 +18,17 @@ def load_pdf_file(data):
 
 
 def filter_to_minimal_docs(docs: List[Document]) -> List[Document]:
-    """
-    Given a list of Document objects, return a new list of Document objects
-    containing only 'source' in metadata and the original page_content.
-    """
+    """Keep page_content plus indexing metadata used by the Document AI pipeline."""
+    kept_keys = ("source", "page", "ocr_used", "doc_type", "doc_type_confidence")
     minimal_docs: List[Document] = []
     for doc in docs:
-        src = doc.metadata.get("source")
+        metadata = {key: doc.metadata[key] for key in kept_keys if key in doc.metadata}
+        if "source" not in metadata:
+            metadata["source"] = doc.metadata.get("source")
         minimal_docs.append(
             Document(
                 page_content=doc.page_content,
-                metadata={"source": src}
+                metadata=metadata,
             )
         )
     return minimal_docs
