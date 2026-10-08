@@ -38,9 +38,9 @@ docsearch = PineconeVectorStore.from_existing_index(
 reference_retriever = docsearch.as_retriever(
     search_type="similarity", search_kwargs={"k": 3, "filter": {"source_type": "reference"}}
 )
-# Policy retriever: only payer policies (metadata filter), used when a case is open.
+# Policy retriever: the single best-matching payer policy (metadata filter), used when a case is open.
 policy_retriever = docsearch.as_retriever(
-    search_type="similarity", search_kwargs={"k": 2, "filter": {"source_type": "policy"}}
+    search_type="similarity", search_kwargs={"k": 1, "filter": {"source_type": "policy"}}
 )
 
 chatModel = ChatOpenAI(model="gpt-4o", temperature=0)
